@@ -1,2 +1,2 @@
-# adventure-game
+# Adventure-game
 Intro to programming Nano Degree Project 3
