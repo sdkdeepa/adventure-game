@@ -101,6 +101,8 @@ def cave_choice(item, option):
 
 
 # Function for playing the game again
+
+
 def play_again():
     again = input("\nWould you like to play again? (y/n) \n ").lower()
     if again == "y":
