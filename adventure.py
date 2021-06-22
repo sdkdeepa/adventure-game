@@ -123,5 +123,7 @@ def play_game():
     begin(item, option)
     field(item, option)
 
+
 if __name__ == '__main__':
     play_game()
+    
